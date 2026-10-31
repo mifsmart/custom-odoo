@@ -1,0 +1,28 @@
+{
+  "product": "Customized Odoo",
+  "release": "R63",
+  "odoo": {
+    "version": "20.0.20261024",
+    "edition": "Community",
+    "license": "LGPL-3.0",
+    "package_url": "https://nightly.odoo.com/20.0/nightly/deb/odoo_20.0.20261024_all.deb",
+    "sha256": "abab2960cb9bda1bae7679ba343c226daeeb02d55f47378560d84d044665e32a",
+    "source_url": "https://nightly.odoo.com/20.0/nightly/deb/odoo_20.0.20261024.tar.xz",
+    "source_sha256": "f9582944f1cdb1a84256fd2d2fb1f36ad9d324a25cfb294b671eff79fde3add6",
+    "repository": "https://github.com/odoo/odoo",
+    "branch": "20.0",
+    "source_commit": "cfad795d5648c2259c4e768cdaa581b7382ee996",
+    "path": "odoo",
+    "source_type": "git-submodule",
+    "source_revision_selection": "Latest official 20.0 commit before the pinned nightly build; changed l10n_pl_edi files and native navbar verified against the package. Nightly release metadata differs."
+  },
+  "odoo_mates": {
+    "repository": "https://github.com/odoomates/odooapps",
+    "commit": "79e3d0cff8f0df3510fa7310e62ef8e8022a6e73",
+    "tree_sha": "79e3d0cff8f0df3510fa7310e62ef8e8022a6e73",
+    "modules": 8,
+    "verified_files": 326,
+    "path": "third_party/odoomates"
+  },
+  "private_addons_repository": "https://github.com/mifsmart/odoo_mif_addons"
+}

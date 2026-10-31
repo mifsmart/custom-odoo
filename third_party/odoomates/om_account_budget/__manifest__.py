@@ -1,0 +1,21 @@
+{
+    'name': 'Odoo 20 Budget Management',
+    'author': 'Odoo Mates, Odoo SA',
+    'category': 'Accounting',
+    'version': '2.0.0',
+    'description': """Use budgets to compare actual with expected revenues and costs""",
+    'summary': 'Odoo 20 Budget Management',
+    'sequence': 10,
+    'depends': ['account'],
+    'license': 'LGPL-3',
+    'data': [
+        'security/ir.access.csv',
+        'data/ir_cron.xml',
+        'views/account_analytic_account_views.xml',
+        'views/account_budget_views.xml',
+        'wizard/account_budget_wizard_views.xml',
+        'views/res_config_settings_views.xml',
+    ],
+    'images': ['static/description/banner.gif'],
+    'demo': ['data/account_budget_demo.xml'],
+}

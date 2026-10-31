@@ -1,0 +1,2614 @@
+{
+  "commit": "79e3d0cff8f0df3510fa7310e62ef8e8022a6e73",
+  "tree_sha": "79e3d0cff8f0df3510fa7310e62ef8e8022a6e73",
+  "files": [
+    {
+      "path": "accounting_pdf_reports/README.rst",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "866bed5b5371f9bc050706451d9b96307c1cb866",
+      "size": 1004,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/866bed5b5371f9bc050706451d9b96307c1cb866"
+    },
+    {
+      "path": "accounting_pdf_reports/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09c6074c9893ce63bdf65ba452667ef687339d69",
+      "size": 199,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/09c6074c9893ce63bdf65ba452667ef687339d69"
+    },
+    {
+      "path": "accounting_pdf_reports/__manifest__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c96f8c3923f127fa294afb217c2f808052b1980a",
+      "size": 1663,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/c96f8c3923f127fa294afb217c2f808052b1980a"
+    },
+    {
+      "path": "accounting_pdf_reports/data/account_account_type.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2d280dfcb803c23d3f3da822acdff22f6b3edf5",
+      "size": 3826,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/d2d280dfcb803c23d3f3da822acdff22f6b3edf5"
+    },
+    {
+      "path": "accounting_pdf_reports/i18n/ar.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4b96e2af0f1d1622f62856eb43a63b02cf2adfe",
+      "size": 57735,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/a4b96e2af0f1d1622f62856eb43a63b02cf2adfe"
+    },
+    {
+      "path": "accounting_pdf_reports/i18n/ar_001.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9e1a86a82b5f41dff15d8b3aef23fd901b3e3d4",
+      "size": 58131,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/b9e1a86a82b5f41dff15d8b3aef23fd901b3e3d4"
+    },
+    {
+      "path": "accounting_pdf_reports/i18n/ar_SY.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ef6e9c61236b0d2a0aa9f1110253620e91a5a2d",
+      "size": 60151,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/3ef6e9c61236b0d2a0aa9f1110253620e91a5a2d"
+    },
+    {
+      "path": "accounting_pdf_reports/i18n/de.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d7c9f64399ee9d976ea80614a8f20f2f2e24b2a5",
+      "size": 55048,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/d7c9f64399ee9d976ea80614a8f20f2f2e24b2a5"
+    },
+    {
+      "path": "accounting_pdf_reports/i18n/es.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2bdc978e85fb72fb0748739d5cfab897e0b7b99",
+      "size": 59051,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/d2bdc978e85fb72fb0748739d5cfab897e0b7b99"
+    },
+    {
+      "path": "accounting_pdf_reports/i18n/es_AR.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9b7b8100a5269d8b53b1bd10ade96d286d1ade3",
+      "size": 69539,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/d9b7b8100a5269d8b53b1bd10ade96d286d1ade3"
+    },
+    {
+      "path": "accounting_pdf_reports/i18n/fr.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d62efebd1356320e2dc17b2cb90fc4dc0dc1fbd0",
+      "size": 56859,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/d62efebd1356320e2dc17b2cb90fc4dc0dc1fbd0"
+    },
+    {
+      "path": "accounting_pdf_reports/i18n/tr.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "715a73f58ad717c012490b6bda2c2ba37f8c976b",
+      "size": 54982,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/715a73f58ad717c012490b6bda2c2ba37f8c976b"
+    },
+    {
+      "path": "accounting_pdf_reports/i18n/uk.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "add525eaa2df03569421f871346fcb797ee99bd6",
+      "size": 57878,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/add525eaa2df03569421f871346fcb797ee99bd6"
+    },
+    {
+      "path": "accounting_pdf_reports/i18n/zh_TW.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e4a444b2b8dd8df1feff0f995bcd3713344f24b",
+      "size": 70440,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/0e4a444b2b8dd8df1feff0f995bcd3713344f24b"
+    },
+    {
+      "path": "accounting_pdf_reports/models/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5c5d51908a2cc4e1e0aa79044b3490e2db5bf2f",
+      "size": 106,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/d5c5d51908a2cc4e1e0aa79044b3490e2db5bf2f"
+    },
+    {
+      "path": "accounting_pdf_reports/models/account_account_type.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b81323b18f47df2405de6ca884250a00248a5a5",
+      "size": 1358,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/4b81323b18f47df2405de6ca884250a00248a5a5"
+    },
+    {
+      "path": "accounting_pdf_reports/models/account_financial_report.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a927544dcd384bbc44c7ec760294c2c04d0e6d4",
+      "size": 3414,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/1a927544dcd384bbc44c7ec760294c2c04d0e6d4"
+    },
+    {
+      "path": "accounting_pdf_reports/models/account_move_line.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b7bcfcf0139b55be06058ec100b9d535a72449c5",
+      "size": 2984,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/b7bcfcf0139b55be06058ec100b9d535a72449c5"
+    },
+    {
+      "path": "accounting_pdf_reports/report/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5cdf5916996a604e8d8a93e66fe76b0711f1003",
+      "size": 231,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/a5cdf5916996a604e8d8a93e66fe76b0711f1003"
+    },
+    {
+      "path": "accounting_pdf_reports/report/report.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d5d114d6894359aad34cbd508d8387215dabf32",
+      "size": 2839,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/4d5d114d6894359aad34cbd508d8387215dabf32"
+    },
+    {
+      "path": "accounting_pdf_reports/report/report_aged_partner.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54f93c837e3f6b35fe9acee7daf4f783e01f5324",
+      "size": 13188,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/54f93c837e3f6b35fe9acee7daf4f783e01f5324"
+    },
+    {
+      "path": "accounting_pdf_reports/report/report_aged_partner.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9176247d6d2fae20f1f45149a4a118808da7d438",
+      "size": 6221,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/9176247d6d2fae20f1f45149a4a118808da7d438"
+    },
+    {
+      "path": "accounting_pdf_reports/report/report_financial.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cda930ff0914ec7133f7428f028f859d185a19b9",
+      "size": 8360,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/cda930ff0914ec7133f7428f028f859d185a19b9"
+    },
+    {
+      "path": "accounting_pdf_reports/report/report_financial.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "887b38178288614ff7566a302abc8786dc47eb3f",
+      "size": 7127,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/887b38178288614ff7566a302abc8786dc47eb3f"
+    },
+    {
+      "path": "accounting_pdf_reports/report/report_general_ledger.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6c5f37613f51f087d4e72b41d537e9a3b066e593",
+      "size": 8878,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/6c5f37613f51f087d4e72b41d537e9a3b066e593"
+    },
+    {
+      "path": "accounting_pdf_reports/report/report_general_ledger.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7670080c7787e76d2eece85ea39206c772d81e17",
+      "size": 7327,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/7670080c7787e76d2eece85ea39206c772d81e17"
+    },
+    {
+      "path": "accounting_pdf_reports/report/report_journal.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b01c4ea29bc33538dbad45f21f07984c39357d70",
+      "size": 5596,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/b01c4ea29bc33538dbad45f21f07984c39357d70"
+    },
+    {
+      "path": "accounting_pdf_reports/report/report_journal_audit.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02685d4e416c448a41df9f809c03df8add6263dd",
+      "size": 6309,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/02685d4e416c448a41df9f809c03df8add6263dd"
+    },
+    {
+      "path": "accounting_pdf_reports/report/report_journal_entries.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8fbbe044671fce05223681c60673f2590b9d203",
+      "size": 5645,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/d8fbbe044671fce05223681c60673f2590b9d203"
+    },
+    {
+      "path": "accounting_pdf_reports/report/report_partner_ledger.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a36cad3866300a7b2a7f64e127d7518005917034",
+      "size": 6235,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/a36cad3866300a7b2a7f64e127d7518005917034"
+    },
+    {
+      "path": "accounting_pdf_reports/report/report_partner_ledger.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d66bcb4d0ef9ed9abe581232b578334b7a20cd6",
+      "size": 5802,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/7d66bcb4d0ef9ed9abe581232b578334b7a20cd6"
+    },
+    {
+      "path": "accounting_pdf_reports/report/report_tax.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e93116f0871dfaf042b7a8f05f1554d93ca7c43",
+      "size": 2991,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/6e93116f0871dfaf042b7a8f05f1554d93ca7c43"
+    },
+    {
+      "path": "accounting_pdf_reports/report/report_tax.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f4ba21dece8effd53d00551ba59c526669d9c8c",
+      "size": 3812,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/6f4ba21dece8effd53d00551ba59c526669d9c8c"
+    },
+    {
+      "path": "accounting_pdf_reports/report/report_trial_balance.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d092c6cc36d6610045204e6dd6b1c04f308816da",
+      "size": 4396,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/d092c6cc36d6610045204e6dd6b1c04f308816da"
+    },
+    {
+      "path": "accounting_pdf_reports/report/report_trial_balance.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "072d4e902888e3db999a05214f4f1ea2eaa84337",
+      "size": 4389,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/072d4e902888e3db999a05214f4f1ea2eaa84337"
+    },
+    {
+      "path": "accounting_pdf_reports/security/ir.access.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea065c25d7e08e4d7c6de9b3907a6817d38e1526",
+      "size": 1752,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/ea065c25d7e08e4d7c6de9b3907a6817d38e1526"
+    },
+    {
+      "path": "accounting_pdf_reports/static/description/account_reports.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae304a067065a8cb939c3513280953c73b5e8a49",
+      "size": 222706,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/ae304a067065a8cb939c3513280953c73b5e8a49"
+    },
+    {
+      "path": "accounting_pdf_reports/static/description/aged_partner_balance_filter.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b75e2c169b714501365e1ea70b975fc21e59f526",
+      "size": 125721,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/b75e2c169b714501365e1ea70b975fc21e59f526"
+    },
+    {
+      "path": "accounting_pdf_reports/static/description/aged_partner_balance_report.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dcde290ecba3a118eee34283acbba5f4f1e62864",
+      "size": 35373,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/dcde290ecba3a118eee34283acbba5f4f1e62864"
+    },
+    {
+      "path": "accounting_pdf_reports/static/description/banner.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4f65f45db703307af98229d9c4856d4dcca6619",
+      "size": 933163,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/b4f65f45db703307af98229d9c4856d4dcca6619"
+    },
+    {
+      "path": "accounting_pdf_reports/static/description/general_ledger_filter.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e57d990ff97714c4b259c86460f719c437431ed2",
+      "size": 123456,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/e57d990ff97714c4b259c86460f719c437431ed2"
+    },
+    {
+      "path": "accounting_pdf_reports/static/description/general_ledger_report.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3ab69f305e4748ae8e8a33c71c6d12a76501f0d",
+      "size": 106368,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/c3ab69f305e4748ae8e8a33c71c6d12a76501f0d"
+    },
+    {
+      "path": "accounting_pdf_reports/static/description/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b8bf29aade8b557c478f3f67f1dbe8f4af5edb6",
+      "size": 14442,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/4b8bf29aade8b557c478f3f67f1dbe8f4af5edb6"
+    },
+    {
+      "path": "accounting_pdf_reports/static/description/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4b7fbc4d5940f73f41e3680f8bf0056611de772",
+      "size": 7247,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/f4b7fbc4d5940f73f41e3680f8bf0056611de772"
+    },
+    {
+      "path": "accounting_pdf_reports/static/description/journal_audit_filter.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2684c15eb913166adb644822fc080ddec1554883",
+      "size": 123421,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/2684c15eb913166adb644822fc080ddec1554883"
+    },
+    {
+      "path": "accounting_pdf_reports/static/description/journal_audit_report.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aeb9925b064dc35caa5d35014174926cefacc4ef",
+      "size": 150750,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/aeb9925b064dc35caa5d35014174926cefacc4ef"
+    },
+    {
+      "path": "accounting_pdf_reports/static/description/odoo_mates.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8408fa3a84d9a0d3b82c7a04d8151a80af888697",
+      "size": 7810,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/8408fa3a84d9a0d3b82c7a04d8151a80af888697"
+    },
+    {
+      "path": "accounting_pdf_reports/static/description/partner_ledger_filter.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c05220ff73608193eb54fd38fe5d1ba9e01d1510",
+      "size": 123322,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/c05220ff73608193eb54fd38fe5d1ba9e01d1510"
+    },
+    {
+      "path": "accounting_pdf_reports/static/description/partner_ledger_report.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2cfd4be7b99bb4d7a1b07f4427383a2abe4d7e2",
+      "size": 88632,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/f2cfd4be7b99bb4d7a1b07f4427383a2abe4d7e2"
+    },
+    {
+      "path": "accounting_pdf_reports/views/financial_report.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac3e49df445193d6f5f59e097e3c43cadf088db3",
+      "size": 4424,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/ac3e49df445193d6f5f59e097e3c43cadf088db3"
+    },
+    {
+      "path": "accounting_pdf_reports/views/ledger_menu.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "64af3dbc1aec5d3e8bf1c601c3cb8f730443e43d",
+      "size": 2014,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/64af3dbc1aec5d3e8bf1c601c3cb8f730443e43d"
+    },
+    {
+      "path": "accounting_pdf_reports/views/menu.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8323dfddfd72364b5d2ff9045c36c0b715359feb",
+      "size": 693,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/8323dfddfd72364b5d2ff9045c36c0b715359feb"
+    },
+    {
+      "path": "accounting_pdf_reports/views/settings.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b0ad7215868e03579cfc84a1689f5df3a9c19fc",
+      "size": 1837,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/6b0ad7215868e03579cfc84a1689f5df3a9c19fc"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "26ab4845c95e346fba99757ddb43387c21e481fb",
+      "size": 446,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/26ab4845c95e346fba99757ddb43387c21e481fb"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/account_general_ledger.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68ce3a86746d821a4fd97776dd817b3416934e0f",
+      "size": 1545,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/68ce3a86746d821a4fd97776dd817b3416934e0f"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/account_journal_audit.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "adf416d570c1fc074171721a79c7cc6734d4fe98",
+      "size": 1014,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/adf416d570c1fc074171721a79c7cc6734d4fe98"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/account_partner_ledger.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1629d18761fafc0e0fa6f8f5137abed98d842fca",
+      "size": 1029,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/1629d18761fafc0e0fa6f8f5137abed98d842fca"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/account_report.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88b547ad0e87fa238b9366366657eefa82942b18",
+      "size": 3099,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/88b547ad0e87fa238b9366366657eefa82942b18"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/account_report_common.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da275df4ff4ff304ed9ff5986c091fc051f07bf0",
+      "size": 2410,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/da275df4ff4ff304ed9ff5986c091fc051f07bf0"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/account_report_common_account.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b77c8913e04731d73a68183868af2332a74c5a5",
+      "size": 1206,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/5b77c8913e04731d73a68183868af2332a74c5a5"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/account_report_common_journal.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e13fad46dbb4b5b5204227dd4a8bde37928b2b7",
+      "size": 504,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/5e13fad46dbb4b5b5204227dd4a8bde37928b2b7"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/account_report_common_partner.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41ec27f6ac56fe3cb5d9326590de6b70d33a212d",
+      "size": 838,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/41ec27f6ac56fe3cb5d9326590de6b70d33a212d"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/account_report_common_view.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b15254e81614b82526f1e9a723cbbee8dc6d36b",
+      "size": 1013,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/6b15254e81614b82526f1e9a723cbbee8dc6d36b"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/account_report_print_journal.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21ced66865703331d2cedcfa4b8268a6a38af163",
+      "size": 863,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/21ced66865703331d2cedcfa4b8268a6a38af163"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/account_tax_report.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67a5243423623aa206e423833cd72a05b438212f",
+      "size": 668,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/67a5243423623aa206e423833cd72a05b438212f"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/account_trial_balance.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "adc55fb7339ad155a4827c575c3a671a76833297",
+      "size": 958,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/adc55fb7339ad155a4827c575c3a671a76833297"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/aged_partner.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91d9873c6b3ba0378d8eb2285accaf3d7d5e3ea9",
+      "size": 1870,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/91d9873c6b3ba0378d8eb2285accaf3d7d5e3ea9"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/aged_partner.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "215d525ab7e63bf1f571e76270fc1842b11904ce",
+      "size": 3668,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/215d525ab7e63bf1f571e76270fc1842b11904ce"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/balance_sheet.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "705b22decb16bbd79ef8747c1cac563281acb754",
+      "size": 6223,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/705b22decb16bbd79ef8747c1cac563281acb754"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/general_ledger.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de3c107fd2105725b4892147e6ac83951ffaa0ec",
+      "size": 2271,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/de3c107fd2105725b4892147e6ac83951ffaa0ec"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/journal_audit.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "866a7b7fcf5a1b493a05fabc61b00ea77adbd635",
+      "size": 1437,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/866a7b7fcf5a1b493a05fabc61b00ea77adbd635"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/partner_ledger.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f36143128ca686f08da74d1ce59dcb4c2bfb1d08",
+      "size": 2793,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/f36143128ca686f08da74d1ce59dcb4c2bfb1d08"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/profit_and_loss.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac1c6d84324eb800911ece56c87e8f15f431cff0",
+      "size": 906,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/ac1c6d84324eb800911ece56c87e8f15f431cff0"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/tax_report.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dae4a50a4a6c3fe96b1f243ba0bfa39a7e4b706d",
+      "size": 1806,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/dae4a50a4a6c3fe96b1f243ba0bfa39a7e4b706d"
+    },
+    {
+      "path": "accounting_pdf_reports/wizard/trial_balance.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3416b7ea2a1d5016154c3f32328b2580ec2fe663",
+      "size": 1761,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/3416b7ea2a1d5016154c3f32328b2580ec2fe663"
+    },
+    {
+      "path": "om_account_accountant/README.rst",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6485495421c03951d25a2841eb5a65c826697cde",
+      "size": 1227,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/6485495421c03951d25a2841eb5a65c826697cde"
+    },
+    {
+      "path": "om_account_accountant/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0650744f6bc69b9f0b865e8c7174c813a5f5995e",
+      "size": 21,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/0650744f6bc69b9f0b865e8c7174c813a5f5995e"
+    },
+    {
+      "path": "om_account_accountant/__manifest__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ce742403de9b320f9ba187d5f7fcfe8b7ae1114",
+      "size": 1496,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/6ce742403de9b320f9ba187d5f7fcfe8b7ae1114"
+    },
+    {
+      "path": "om_account_accountant/doc/index.rst",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f0c19dcd5e10397f27809d218384415b927ed11",
+      "size": 1227,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/2f0c19dcd5e10397f27809d218384415b927ed11"
+    },
+    {
+      "path": "om_account_accountant/doc/translators.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "daef43a3206f4d942f5d695c4c953ba688467e7e",
+      "size": 87,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/daef43a3206f4d942f5d695c4c953ba688467e7e"
+    },
+    {
+      "path": "om_account_accountant/i18n/ar_001.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f8dc0ddebf17831e9afa52b4c7a12be4c5494c00",
+      "size": 5461,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/f8dc0ddebf17831e9afa52b4c7a12be4c5494c00"
+    },
+    {
+      "path": "om_account_accountant/i18n/ar_SY.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "063a4e793a18bbc5bc19ff7dfc9bed179818a079",
+      "size": 5496,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/063a4e793a18bbc5bc19ff7dfc9bed179818a079"
+    },
+    {
+      "path": "om_account_accountant/i18n/es_AR.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8b1495a6b9732cb975017f1f1a1cd002c9a025f",
+      "size": 5378,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/e8b1495a6b9732cb975017f1f1a1cd002c9a025f"
+    },
+    {
+      "path": "om_account_accountant/i18n/es_MX.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98fba209d9461c0fab075001eb3ab67ef1e77d18",
+      "size": 5295,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/98fba209d9461c0fab075001eb3ab67ef1e77d18"
+    },
+    {
+      "path": "om_account_accountant/i18n/fr.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6148a0cfb147669905cf0f9129eb3932cb998f22",
+      "size": 5418,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/6148a0cfb147669905cf0f9129eb3932cb998f22"
+    },
+    {
+      "path": "om_account_accountant/i18n/id.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33e92d04ab9f24f04860549d6a63f8aba8a76580",
+      "size": 5362,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/33e92d04ab9f24f04860549d6a63f8aba8a76580"
+    },
+    {
+      "path": "om_account_accountant/i18n/tr.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1166ee177447435d7cd628b5c52624cfb23b4231",
+      "size": 5013,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/1166ee177447435d7cd628b5c52624cfb23b4231"
+    },
+    {
+      "path": "om_account_accountant/i18n/uk.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c93f2e3f412b64f1cb582d0a28feb237337c447",
+      "size": 14703,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/2c93f2e3f412b64f1cb582d0a28feb237337c447"
+    },
+    {
+      "path": "om_account_accountant/i18n/zh_TW.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad4dbd7dcca8195833a22f24fdc46eb29f0388ca",
+      "size": 5298,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/ad4dbd7dcca8195833a22f24fdc46eb29f0388ca"
+    },
+    {
+      "path": "om_account_accountant/models/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc32bad7f883da27d02320ee837780a04a423ec3",
+      "size": 50,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/fc32bad7f883da27d02320ee837780a04a423ec3"
+    },
+    {
+      "path": "om_account_accountant/models/account_move.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "592361ceab7af2bcfcf0b02b31d97454fa9937c8",
+      "size": 191,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/592361ceab7af2bcfcf0b02b31d97454fa9937c8"
+    },
+    {
+      "path": "om_account_accountant/models/settings.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2ac648d04059848780b37503fabc591dce23b3d",
+      "size": 388,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/e2ac648d04059848780b37503fabc591dce23b3d"
+    },
+    {
+      "path": "om_account_accountant/security/group.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4993a8dc71d063af193a99833759a26a22e2615e",
+      "size": 822,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/4993a8dc71d063af193a99833759a26a22e2615e"
+    },
+    {
+      "path": "om_account_accountant/static/description/account_dashboard.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4341a38d49654194b6514641339249fc0415f76d",
+      "size": 64738,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/4341a38d49654194b6514641339249fc0415f76d"
+    },
+    {
+      "path": "om_account_accountant/static/description/account_settings.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fcdc9637a8f5a0cda808a5c396fec120ad528102",
+      "size": 71420,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/fcdc9637a8f5a0cda808a5c396fec120ad528102"
+    },
+    {
+      "path": "om_account_accountant/static/description/account_settings2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe4c79e9d42cec02bb3dad058c957294a0718733",
+      "size": 86597,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/fe4c79e9d42cec02bb3dad058c957294a0718733"
+    },
+    {
+      "path": "om_account_accountant/static/description/banner.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c3d5ea3b7933844e75fa9dfe3f066315f5db407",
+      "size": 759330,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/5c3d5ea3b7933844e75fa9dfe3f066315f5db407"
+    },
+    {
+      "path": "om_account_accountant/static/description/customer_followup.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ecb8fbe2d4039d7cdd21e4547692dcecf80d821a",
+      "size": 63725,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/ecb8fbe2d4039d7cdd21e4547692dcecf80d821a"
+    },
+    {
+      "path": "om_account_accountant/static/description/daily_reports.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1771430cbe6eddd103b9d7a5b7e5050dfff58096",
+      "size": 145830,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/1771430cbe6eddd103b9d7a5b7e5050dfff58096"
+    },
+    {
+      "path": "om_account_accountant/static/description/financial_reports.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60afd0ac265b1a09599e3c0611794ad8c4f58569",
+      "size": 162487,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/60afd0ac265b1a09599e3c0611794ad8c4f58569"
+    },
+    {
+      "path": "om_account_accountant/static/description/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b4a236ff2c8d3c6fb01b6405950e002f3600624",
+      "size": 14337,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/6b4a236ff2c8d3c6fb01b6405950e002f3600624"
+    },
+    {
+      "path": "om_account_accountant/static/description/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "698bdb15265d788a0ae3ab184e0be9b3c8b2f648",
+      "size": 10347,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/698bdb15265d788a0ae3ab184e0be9b3c8b2f648"
+    },
+    {
+      "path": "om_account_accountant/static/description/odoo18_asset_management.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c8a6059d4b9c95f15a07878726b22b8b3983b901",
+      "size": 77404,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/c8a6059d4b9c95f15a07878726b22b8b3983b901"
+    },
+    {
+      "path": "om_account_accountant/static/description/odoo18_budget.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce00a4ef0380d80e1cb2365254d0b7774f0b10cd",
+      "size": 111363,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/ce00a4ef0380d80e1cb2365254d0b7774f0b10cd"
+    },
+    {
+      "path": "om_account_accountant/static/description/odoo18_fiscal_year.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc494a897912efd2bc8846524443349b3111316c",
+      "size": 89771,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/cc494a897912efd2bc8846524443349b3111316c"
+    },
+    {
+      "path": "om_account_accountant/static/description/odoo_github.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "682e55543b78c89f4110a7cc4116e197592eabfb",
+      "size": 74033,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/682e55543b78c89f4110a7cc4116e197592eabfb"
+    },
+    {
+      "path": "om_account_accountant/static/description/odoo_mates.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8408fa3a84d9a0d3b82c7a04d8151a80af888697",
+      "size": 7810,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/8408fa3a84d9a0d3b82c7a04d8151a80af888697"
+    },
+    {
+      "path": "om_account_accountant/static/description/odoo_report.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1465af30a493e23423b2784e2bd871b335ed02b4",
+      "size": 385347,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/1465af30a493e23423b2784e2bd871b335ed02b4"
+    },
+    {
+      "path": "om_account_accountant/static/description/odoowalnut.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "685ee1583664c667d4db39edbf51c3d7ceac6fbf",
+      "size": 73119,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/685ee1583664c667d4db39edbf51c3d7ceac6fbf"
+    },
+    {
+      "path": "om_account_accountant/static/description/recurring_payment.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52133ab193611d7113745ff3f35a8e7d5c1851cb",
+      "size": 87050,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/52133ab193611d7113745ff3f35a8e7d5c1851cb"
+    },
+    {
+      "path": "om_account_accountant/static/description/walnut_ss.jpeg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "482c4e5deb95a01f476795d1518cd64d4c89cac6",
+      "size": 13841,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/482c4e5deb95a01f476795d1518cd64d4c89cac6"
+    },
+    {
+      "path": "om_account_accountant/views/account_bank_statement.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5bb9ee245c4652c5361e777cdddab87253001b45",
+      "size": 612,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/5bb9ee245c4652c5361e777cdddab87253001b45"
+    },
+    {
+      "path": "om_account_accountant/views/account_journal.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b56a91ea8f5f324b0a69da5917a69fc4c5531e32",
+      "size": 805,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/b56a91ea8f5f324b0a69da5917a69fc4c5531e32"
+    },
+    {
+      "path": "om_account_accountant/views/account_tag.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc20be738948a4b5429999b637b231b165d80e4b",
+      "size": 473,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/fc20be738948a4b5429999b637b231b165d80e4b"
+    },
+    {
+      "path": "om_account_accountant/views/menu.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c31d4d2863cb71c7e05484394671d0ca2311a99c",
+      "size": 1593,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/c31d4d2863cb71c7e05484394671d0ca2311a99c"
+    },
+    {
+      "path": "om_account_accountant/views/payment_method.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac477524bdfc505cd5894ab4a1b081fb3b3d87e6",
+      "size": 2292,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/ac477524bdfc505cd5894ab4a1b081fb3b3d87e6"
+    },
+    {
+      "path": "om_account_accountant/views/reconciliation.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e44b4b09e8764f48e7647e40757c16df6bdce0a",
+      "size": 489,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/7e44b4b09e8764f48e7647e40757c16df6bdce0a"
+    },
+    {
+      "path": "om_account_accountant/views/res_partner.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4febdd9db469b028ac6675a93e5e8e309efef74",
+      "size": 523,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/f4febdd9db469b028ac6675a93e5e8e309efef74"
+    },
+    {
+      "path": "om_account_accountant/views/settings.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6eeaeffb232ac30a07a9170168c03f680237bdb4",
+      "size": 1728,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/6eeaeffb232ac30a07a9170168c03f680237bdb4"
+    },
+    {
+      "path": "om_account_asset/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea123d11d1332d8f95a09f1c909d4ef01be51396",
+      "size": 64,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/ea123d11d1332d8f95a09f1c909d4ef01be51396"
+    },
+    {
+      "path": "om_account_asset/__manifest__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94395cddcd94c67f8b1d16f6fc6a607f43630719",
+      "size": 1170,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/94395cddcd94c67f8b1d16f6fc6a607f43630719"
+    },
+    {
+      "path": "om_account_asset/i18n/ar_001.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55377b16a4bfabf81001bfd06fba49225d6534b0",
+      "size": 50400,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/55377b16a4bfabf81001bfd06fba49225d6534b0"
+    },
+    {
+      "path": "om_account_asset/i18n/ar_SY.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf26796283081a5623779a0fc5f0d8496be43275",
+      "size": 48766,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/cf26796283081a5623779a0fc5f0d8496be43275"
+    },
+    {
+      "path": "om_account_asset/i18n/es_AR.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff5f477bd7361999676882b7929151de25e3b95d",
+      "size": 56566,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/ff5f477bd7361999676882b7929151de25e3b95d"
+    },
+    {
+      "path": "om_account_asset/i18n/fr.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4293fa6f81729ab105d3825ab1af51077f8bdaf",
+      "size": 57030,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/f4293fa6f81729ab105d3825ab1af51077f8bdaf"
+    },
+    {
+      "path": "om_account_asset/i18n/tr.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbe267f111e899051d10ed40cb1d3dc0154d8059",
+      "size": 56129,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/bbe267f111e899051d10ed40cb1d3dc0154d8059"
+    },
+    {
+      "path": "om_account_asset/i18n/uk.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bede0f894254e98b0c7b9ac7b9a3ea36bcf4c474",
+      "size": 51843,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/bede0f894254e98b0c7b9ac7b9a3ea36bcf4c474"
+    },
+    {
+      "path": "om_account_asset/i18n/zh_TW.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7f4ee2ef30e9275d80a7654291d94876a1151ea",
+      "size": 60476,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/e7f4ee2ef30e9275d80a7654291d94876a1151ea"
+    },
+    {
+      "path": "om_account_asset/migrations/1.1.0/post-migrate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bea7dbc7162b769f7d3daef56f0f98d46fb01916",
+      "size": 2682,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/bea7dbc7162b769f7d3daef56f0f98d46fb01916"
+    },
+    {
+      "path": "om_account_asset/migrations/2.0.0/end-migrate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a60c72c069805965285984bdced51fbdc61fb7af",
+      "size": 505,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/a60c72c069805965285984bdced51fbdc61fb7af"
+    },
+    {
+      "path": "om_account_asset/migrations/2.0.0/post-migrate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20f80f0e3d290a0796b9e9a4d2bab3d8d0bb4c63",
+      "size": 7736,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/20f80f0e3d290a0796b9e9a4d2bab3d8d0bb4c63"
+    },
+    {
+      "path": "om_account_asset/migrations/2.0.0/pre-migrate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e645c7c2e32d6a01dc8772a02cdf0438b2ac7ce8",
+      "size": 647,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/e645c7c2e32d6a01dc8772a02cdf0438b2ac7ce8"
+    },
+    {
+      "path": "om_account_asset/models/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06b70ee6c90c9417f131fabe71d880df01dcd0da",
+      "size": 201,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/06b70ee6c90c9417f131fabe71d880df01dcd0da"
+    },
+    {
+      "path": "om_account_asset/models/account.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "050cf4d40c537611ff3b64e2ce456e305c87d3d6",
+      "size": 9632,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/050cf4d40c537611ff3b64e2ce456e305c87d3d6"
+    },
+    {
+      "path": "om_account_asset/models/account_asset.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18e385678a43b90ebcdf15cc03a79b246319a95f",
+      "size": 49582,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/18e385678a43b90ebcdf15cc03a79b246319a95f"
+    },
+    {
+      "path": "om_account_asset/models/account_move.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "926029a743f9235fd17fbb5cbbc239e12dafdeef",
+      "size": 7461,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/926029a743f9235fd17fbb5cbbc239e12dafdeef"
+    },
+    {
+      "path": "om_account_asset/models/product.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a283876678bb0f93e477d70574aa1c95d6b0bcdc",
+      "size": 774,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/a283876678bb0f93e477d70574aa1c95d6b0bcdc"
+    },
+    {
+      "path": "om_account_asset/models/res_company.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b86f6de52e4c9fef05868c7676999332601bfe01",
+      "size": 891,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/b86f6de52e4c9fef05868c7676999332601bfe01"
+    },
+    {
+      "path": "om_account_asset/report/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3a2ce7bd5ab81a85c8a3fedef8278230c5e6d87",
+      "size": 35,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/e3a2ce7bd5ab81a85c8a3fedef8278230c5e6d87"
+    },
+    {
+      "path": "om_account_asset/report/account_asset_report.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29a6c3aaa3ed8a4f80801638d71e65f23d6f27fb",
+      "size": 3570,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/29a6c3aaa3ed8a4f80801638d71e65f23d6f27fb"
+    },
+    {
+      "path": "om_account_asset/report/account_asset_report_views.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2e305bcbc72e7ed09eb5049fdb7f9474995defc",
+      "size": 4162,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/c2e305bcbc72e7ed09eb5049fdb7f9474995defc"
+    },
+    {
+      "path": "om_account_asset/report/report_depreciation_schedule.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dab121ec8649839c4efc90d3abb52618e7c64278",
+      "size": 5143,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/dab121ec8649839c4efc90d3abb52618e7c64278"
+    },
+    {
+      "path": "om_account_asset/security/ir.access.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e5df59ec00ba7a89e72c5fcc9e6d3f4c8ed2f804",
+      "size": 1549,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/e5df59ec00ba7a89e72c5fcc9e6d3f4c8ed2f804"
+    },
+    {
+      "path": "om_account_asset/static/description/asset_types.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb491b3a6c85959a191085bdb1cdb809503442eb",
+      "size": 128744,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/cb491b3a6c85959a191085bdb1cdb809503442eb"
+    },
+    {
+      "path": "om_account_asset/static/description/assets.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "abfb1ae71f9fd0e3291c0e31c6f2d852da0270fb",
+      "size": 1047808,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/abfb1ae71f9fd0e3291c0e31c6f2d852da0270fb"
+    },
+    {
+      "path": "om_account_asset/static/description/assets.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da7605a419b46a47ce1f8f5ef2a8e70e93c49e8c",
+      "size": 86286,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/da7605a419b46a47ce1f8f5ef2a8e70e93c49e8c"
+    },
+    {
+      "path": "om_account_asset/static/description/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "899c85343ce4af38e0f6facf19f99352f5b5a0ef",
+      "size": 6841,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/899c85343ce4af38e0f6facf19f99352f5b5a0ef"
+    },
+    {
+      "path": "om_account_asset/static/description/icon.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d215c3ff32f5ea3e76d379142b474ec516df1a2",
+      "size": 1596,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/7d215c3ff32f5ea3e76d379142b474ec516df1a2"
+    },
+    {
+      "path": "om_account_asset/static/description/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5328b40afc5762c3fc8b3a504b0969a596efb04e",
+      "size": 3564,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/5328b40afc5762c3fc8b3a504b0969a596efb04e"
+    },
+    {
+      "path": "om_account_asset/static/description/odoo_mates.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8408fa3a84d9a0d3b82c7a04d8151a80af888697",
+      "size": 7810,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/8408fa3a84d9a0d3b82c7a04d8151a80af888697"
+    },
+    {
+      "path": "om_account_asset/static/src/scss/account_asset.scss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bff97fa20d9d7efd37436ae776f05c36799b225e",
+      "size": 205,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/bff97fa20d9d7efd37436ae776f05c36799b225e"
+    },
+    {
+      "path": "om_account_asset/tests/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "abbca2be61a7cbbfa951d5ca226b5fe599af46d3",
+      "size": 34,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/abbca2be61a7cbbfa951d5ca226b5fe599af46d3"
+    },
+    {
+      "path": "om_account_asset/tests/test_asset_features.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba273ece0b730739d71d55211b1e5fa259da5c0b",
+      "size": 19735,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/ba273ece0b730739d71d55211b1e5fa259da5c0b"
+    },
+    {
+      "path": "om_account_asset/views/account_asset_templates.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87589e877ee6c52761ad79ec2893a6c5afc4980b",
+      "size": 376,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/87589e877ee6c52761ad79ec2893a6c5afc4980b"
+    },
+    {
+      "path": "om_account_asset/views/account_asset_views.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27eb24e2df1535342f8fba074defe9ec90c363af",
+      "size": 17783,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/27eb24e2df1535342f8fba074defe9ec90c363af"
+    },
+    {
+      "path": "om_account_asset/views/account_move_views.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f67d9d62dec6780dbb233e8973914bd82594a960",
+      "size": 3058,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/f67d9d62dec6780dbb233e8973914bd82594a960"
+    },
+    {
+      "path": "om_account_asset/views/asset_category_views.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "26de9232dc8ac852c12933695ea0b8d31308316f",
+      "size": 8685,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/26de9232dc8ac852c12933695ea0b8d31308316f"
+    },
+    {
+      "path": "om_account_asset/views/product_views.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8eea95b2d86dab4fe95b3997e14e8a7917374035",
+      "size": 700,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/8eea95b2d86dab4fe95b3997e14e8a7917374035"
+    },
+    {
+      "path": "om_account_asset/views/res_config_settings_views.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4993053c1385e5f96cbcd4a56fa6ae8be4fcad28",
+      "size": 1321,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/4993053c1385e5f96cbcd4a56fa6ae8be4fcad28"
+    },
+    {
+      "path": "om_account_asset/wizard/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a637366d48645f4f983ae482412e35463dfef501",
+      "size": 196,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/a637366d48645f4f983ae482412e35463dfef501"
+    },
+    {
+      "path": "om_account_asset/wizard/asset_depreciation_schedule.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c018a3487d3df7229d9a800b651f033224b456c9",
+      "size": 6488,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/c018a3487d3df7229d9a800b651f033224b456c9"
+    },
+    {
+      "path": "om_account_asset/wizard/asset_depreciation_schedule_views.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a2bf80daedb76077bc2a81f1add6232a4b4d935",
+      "size": 1854,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/7a2bf80daedb76077bc2a81f1add6232a4b4d935"
+    },
+    {
+      "path": "om_account_asset/wizard/asset_modify.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a735226057bc1ee7ce81120d1b4326f9881fef1c",
+      "size": 7328,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/a735226057bc1ee7ce81120d1b4326f9881fef1c"
+    },
+    {
+      "path": "om_account_asset/wizard/asset_modify_views.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "005f34e7e40c2ab3e723992748d3abb708ce9d82",
+      "size": 2652,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/005f34e7e40c2ab3e723992748d3abb708ce9d82"
+    },
+    {
+      "path": "om_account_asset/wizard/asset_pause.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e02e6ba6c071ded0ec6f56b759301b76c614d357",
+      "size": 1126,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/e02e6ba6c071ded0ec6f56b759301b76c614d357"
+    },
+    {
+      "path": "om_account_asset/wizard/asset_pause_views.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd945134a534a4488769e1ca59a20111655cffef",
+      "size": 1858,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/bd945134a534a4488769e1ca59a20111655cffef"
+    },
+    {
+      "path": "om_account_asset/wizard/asset_sell.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35595c4cc71d525f8a2197b5ef505998da1ad257",
+      "size": 2861,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/35595c4cc71d525f8a2197b5ef505998da1ad257"
+    },
+    {
+      "path": "om_account_asset/wizard/asset_sell_views.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99379261f805cd24f0b22dd587581e651ec39746",
+      "size": 2667,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/99379261f805cd24f0b22dd587581e651ec39746"
+    },
+    {
+      "path": "om_account_budget/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b4296142f475392fb090e036775e999aa8e4a27",
+      "size": 42,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/9b4296142f475392fb090e036775e999aa8e4a27"
+    },
+    {
+      "path": "om_account_budget/__manifest__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f3b6e1fcfddcc57aef59930b698c4c4669fcc785",
+      "size": 711,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/f3b6e1fcfddcc57aef59930b698c4c4669fcc785"
+    },
+    {
+      "path": "om_account_budget/data/account_budget_demo.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cdc910a3ed7f34e0169d073b4fd0bb0a1b81a83a",
+      "size": 17270,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/cdc910a3ed7f34e0169d073b4fd0bb0a1b81a83a"
+    },
+    {
+      "path": "om_account_budget/data/ir_cron.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84dc1e3c21c89fb5d9f799a3722519b5c3cd9a1e",
+      "size": 486,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/84dc1e3c21c89fb5d9f799a3722519b5c3cd9a1e"
+    },
+    {
+      "path": "om_account_budget/i18n/ar_001.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f46770a46f03f7665d5a4553d21815b8cbf6d101",
+      "size": 21036,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/f46770a46f03f7665d5a4553d21815b8cbf6d101"
+    },
+    {
+      "path": "om_account_budget/i18n/ar_SY.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "01f1a0a8688b4cb5567d9f3ae39724faa81e1aae",
+      "size": 19584,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/01f1a0a8688b4cb5567d9f3ae39724faa81e1aae"
+    },
+    {
+      "path": "om_account_budget/i18n/es_AR.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93a9a0c21d9ba4cbadb3efa85a80fd3858f0c151",
+      "size": 19428,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/93a9a0c21d9ba4cbadb3efa85a80fd3858f0c151"
+    },
+    {
+      "path": "om_account_budget/i18n/es_MX.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cad6d7a9ce90c98c1def8f5643b8158710243cc4",
+      "size": 21724,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/cad6d7a9ce90c98c1def8f5643b8158710243cc4"
+    },
+    {
+      "path": "om_account_budget/i18n/fr.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89091520b560b6087ff17f9686a9d0893aa287f5",
+      "size": 21738,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/89091520b560b6087ff17f9686a9d0893aa287f5"
+    },
+    {
+      "path": "om_account_budget/i18n/tr.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dbb5b83efa0eac4ad5661b6f8976de2fdd0436f5",
+      "size": 21442,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/dbb5b83efa0eac4ad5661b6f8976de2fdd0436f5"
+    },
+    {
+      "path": "om_account_budget/i18n/uk.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e83a1789af9c23e5915106060e8044d698903cd1",
+      "size": 20693,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/e83a1789af9c23e5915106060e8044d698903cd1"
+    },
+    {
+      "path": "om_account_budget/i18n/zh.TW.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f300d753934fcdfc759e2caeb5d171e5b64efb79",
+      "size": 20071,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/f300d753934fcdfc759e2caeb5d171e5b64efb79"
+    },
+    {
+      "path": "om_account_budget/migrations/2.0.0/post-migrate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0cedd372dfd6bb031d0b42b9db7d86f83a3ef2e",
+      "size": 3860,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/f0cedd372dfd6bb031d0b42b9db7d86f83a3ef2e"
+    },
+    {
+      "path": "om_account_budget/migrations/2.0.0/pre-migrate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d6f212688bfd63d1abdee6cbf2583355b66cd50d",
+      "size": 11429,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/d6f212688bfd63d1abdee6cbf2583355b66cd50d"
+    },
+    {
+      "path": "om_account_budget/models/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c923dd20ff2792c0b96ca9cbeb34c5c8de62658a",
+      "size": 166,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/c923dd20ff2792c0b96ca9cbeb34c5c8de62658a"
+    },
+    {
+      "path": "om_account_budget/models/account_analytic_account.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9f4eebde7223b22fd46738aa10d19664b2429cd",
+      "size": 228,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/b9f4eebde7223b22fd46738aa10d19664b2429cd"
+    },
+    {
+      "path": "om_account_budget/models/account_budget.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "025e4ebb0dffae1e23c06503f9346b566bee5187",
+      "size": 9494,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/025e4ebb0dffae1e23c06503f9346b566bee5187"
+    },
+    {
+      "path": "om_account_budget/models/account_budget_line.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "439eb1b942701e85282b34ef470886c994659a3e",
+      "size": 18693,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/439eb1b942701e85282b34ef470886c994659a3e"
+    },
+    {
+      "path": "om_account_budget/models/account_budget_position.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "966fa920ea4460fb28a9a2a45faa4fb1a57ef706",
+      "size": 1264,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/966fa920ea4460fb28a9a2a45faa4fb1a57ef706"
+    },
+    {
+      "path": "om_account_budget/models/res_company.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea7e8c5f1329f1132bc8503741ea058617383017",
+      "size": 569,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/ea7e8c5f1329f1132bc8503741ea058617383017"
+    },
+    {
+      "path": "om_account_budget/security/ir.access.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c75dc03015e655cd384a29d499212bed95c27da6",
+      "size": 2014,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/c75dc03015e655cd384a29d499212bed95c27da6"
+    },
+    {
+      "path": "om_account_budget/static/description/banner.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd3da3c3b56552c3fb2c0904681ae589acc3f954",
+      "size": 1710661,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/bd3da3c3b56552c3fb2c0904681ae589acc3f954"
+    },
+    {
+      "path": "om_account_budget/static/description/budget_analysis_pivot.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19bbd209aa7aadc7b2151280f6cbb855c4ceae84",
+      "size": 41638,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/19bbd209aa7aadc7b2151280f6cbb855c4ceae84"
+    },
+    {
+      "path": "om_account_budget/static/description/budgetary_postions.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6ed38a74af17a96147970c4541fc9ff71d89052",
+      "size": 53800,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/a6ed38a74af17a96147970c4541fc9ff71d89052"
+    },
+    {
+      "path": "om_account_budget/static/description/budgets.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cbb83a71a2ed58d322cd8254d713cc6341e1c084",
+      "size": 73539,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/cbb83a71a2ed58d322cd8254d713cc6341e1c084"
+    },
+    {
+      "path": "om_account_budget/static/description/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b8bf29aade8b557c478f3f67f1dbe8f4af5edb6",
+      "size": 14442,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/4b8bf29aade8b557c478f3f67f1dbe8f4af5edb6"
+    },
+    {
+      "path": "om_account_budget/static/description/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d1640899a654c4999f82aee19cc59fd3a8a95ae",
+      "size": 3333,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/7d1640899a654c4999f82aee19cc59fd3a8a95ae"
+    },
+    {
+      "path": "om_account_budget/static/description/odoo_mates.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8408fa3a84d9a0d3b82c7a04d8151a80af888697",
+      "size": 7810,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/8408fa3a84d9a0d3b82c7a04d8151a80af888697"
+    },
+    {
+      "path": "om_account_budget/tests/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9440414130661bb51b4c1362aebaed4900fd0b4d",
+      "size": 26,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/9440414130661bb51b4c1362aebaed4900fd0b4d"
+    },
+    {
+      "path": "om_account_budget/tests/test_budget.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d3a5b013244612efa3987083c491e800507ba2f",
+      "size": 14551,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/5d3a5b013244612efa3987083c491e800507ba2f"
+    },
+    {
+      "path": "om_account_budget/views/account_analytic_account_views.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b7f2899ce73b40a6a44a7cd2cc94198debc7b68d",
+      "size": 2426,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/b7f2899ce73b40a6a44a7cd2cc94198debc7b68d"
+    },
+    {
+      "path": "om_account_budget/views/account_budget_views.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a85b3e4abe6208f2dc7694460ff657a09d5e34c",
+      "size": 25467,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/0a85b3e4abe6208f2dc7694460ff657a09d5e34c"
+    },
+    {
+      "path": "om_account_budget/views/res_config_settings_views.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c310359ebc19478c352a362ee07777a43a7bc8d",
+      "size": 1141,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/1c310359ebc19478c352a362ee07777a43a7bc8d"
+    },
+    {
+      "path": "om_account_budget/wizard/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6102c5a51aff807e03686d8bfdde5879bf50bbb",
+      "size": 69,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/e6102c5a51aff807e03686d8bfdde5879bf50bbb"
+    },
+    {
+      "path": "om_account_budget/wizard/account_budget_copy.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c17572b0fc7e9f967e128221594f1d0651c1bdb",
+      "size": 1896,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/7c17572b0fc7e9f967e128221594f1d0651c1bdb"
+    },
+    {
+      "path": "om_account_budget/wizard/account_budget_split.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c67b843fe64acd53a2cbfac7351745a166718917",
+      "size": 941,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/c67b843fe64acd53a2cbfac7351745a166718917"
+    },
+    {
+      "path": "om_account_budget/wizard/account_budget_wizard_views.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b757341bbeb9f8c87ab7fa0a4515f38e5b34a07",
+      "size": 2232,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/6b757341bbeb9f8c87ab7fa0a4515f38e5b34a07"
+    },
+    {
+      "path": "om_account_daily_reports/README.rst",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85d716827cc5dc1971d6fa5217d4bbd714ad7c7b",
+      "size": 997,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/85d716827cc5dc1971d6fa5217d4bbd714ad7c7b"
+    },
+    {
+      "path": "om_account_daily_reports/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51350609bf6a1771f99768613e1f7944c689ba79",
+      "size": 42,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/51350609bf6a1771f99768613e1f7944c689ba79"
+    },
+    {
+      "path": "om_account_daily_reports/__manifest__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ba5907da1563bb15864022c3014246f002d0472",
+      "size": 951,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/0ba5907da1563bb15864022c3014246f002d0472"
+    },
+    {
+      "path": "om_account_daily_reports/i18n/ar_001.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f80df28d5f1f3c2b3ef3e512640e53334ba883e",
+      "size": 18565,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/4f80df28d5f1f3c2b3ef3e512640e53334ba883e"
+    },
+    {
+      "path": "om_account_daily_reports/i18n/ar_SY.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf5baa54839fc09e262e69b660e56ab87d261cac",
+      "size": 17718,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/bf5baa54839fc09e262e69b660e56ab87d261cac"
+    },
+    {
+      "path": "om_account_daily_reports/i18n/es_AR.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d98f47e797092cfee00ee836dabd3cdb8d34ee1e",
+      "size": 17660,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/d98f47e797092cfee00ee836dabd3cdb8d34ee1e"
+    },
+    {
+      "path": "om_account_daily_reports/i18n/fr.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11930ce1f6464526a401cfd2ec1096674d0b29fb",
+      "size": 18600,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/11930ce1f6464526a401cfd2ec1096674d0b29fb"
+    },
+    {
+      "path": "om_account_daily_reports/i18n/tr.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2661508b1172aefe2d48733ab2e9d0f35640eca1",
+      "size": 18409,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/2661508b1172aefe2d48733ab2e9d0f35640eca1"
+    },
+    {
+      "path": "om_account_daily_reports/i18n/uk.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e30128e8803e86cdf6921f16d8276bba221beb9",
+      "size": 19704,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/7e30128e8803e86cdf6921f16d8276bba221beb9"
+    },
+    {
+      "path": "om_account_daily_reports/i18n/zh_TW.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c75d5616cfc393dcab45e33153360f282451f96b",
+      "size": 58308,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/c75d5616cfc393dcab45e33153360f282451f96b"
+    },
+    {
+      "path": "om_account_daily_reports/report/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9072dd322ab90961ca24e1359b66fdc7d899cc4b",
+      "size": 89,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/9072dd322ab90961ca24e1359b66fdc7d899cc4b"
+    },
+    {
+      "path": "om_account_daily_reports/report/report_bankbook.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea71925f3baa003ab228f91a7afddfa1efa565bf",
+      "size": 8581,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/ea71925f3baa003ab228f91a7afddfa1efa565bf"
+    },
+    {
+      "path": "om_account_daily_reports/report/report_bankbook.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ed0c6e2cec471e4731ca37c79387ca330e2d194b",
+      "size": 6179,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/ed0c6e2cec471e4731ca37c79387ca330e2d194b"
+    },
+    {
+      "path": "om_account_daily_reports/report/report_cashbook.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32e2e55791087fd1e90009aa464bf2fd58b653f5",
+      "size": 8541,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/32e2e55791087fd1e90009aa464bf2fd58b653f5"
+    },
+    {
+      "path": "om_account_daily_reports/report/report_cashbook.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d6385b840fdd1a9201996dcaaf112e8848a99899",
+      "size": 6180,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/d6385b840fdd1a9201996dcaaf112e8848a99899"
+    },
+    {
+      "path": "om_account_daily_reports/report/report_daybook.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff69b9a5a5e6af40ae2d9aba998abebdb2231367",
+      "size": 4826,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/ff69b9a5a5e6af40ae2d9aba998abebdb2231367"
+    },
+    {
+      "path": "om_account_daily_reports/report/report_daybook.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e412c842d836aeb63af53795ee114b14ca653d88",
+      "size": 6065,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/e412c842d836aeb63af53795ee114b14ca653d88"
+    },
+    {
+      "path": "om_account_daily_reports/report/reports.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87fb7de8fd1cce2864a808303f9f1e7e9d8d974a",
+      "size": 1111,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/87fb7de8fd1cce2864a808303f9f1e7e9d8d974a"
+    },
+    {
+      "path": "om_account_daily_reports/security/ir.access.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41f0fdd01b274bc2c456b9cb3d494cc214b11be1",
+      "size": 409,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/41f0fdd01b274bc2c456b9cb3d494cc214b11be1"
+    },
+    {
+      "path": "om_account_daily_reports/static/description/banner.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f2cd17c8b873bfd73b51280f69dcc61280e18dc",
+      "size": 55564,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/8f2cd17c8b873bfd73b51280f69dcc61280e18dc"
+    },
+    {
+      "path": "om_account_daily_reports/static/description/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b8bf29aade8b557c478f3f67f1dbe8f4af5edb6",
+      "size": 14442,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/4b8bf29aade8b557c478f3f67f1dbe8f4af5edb6"
+    },
+    {
+      "path": "om_account_daily_reports/static/description/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55556c1a1ecb15e227af0e7421df0fcac9a23482",
+      "size": 2591,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/55556c1a1ecb15e227af0e7421df0fcac9a23482"
+    },
+    {
+      "path": "om_account_daily_reports/static/description/odoo_mates.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8408fa3a84d9a0d3b82c7a04d8151a80af888697",
+      "size": 7810,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/8408fa3a84d9a0d3b82c7a04d8151a80af888697"
+    },
+    {
+      "path": "om_account_daily_reports/views/om_daily_reports.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ed1749fcc0a9da8d5509280a3c24a38269325cb",
+      "size": 259,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/1ed1749fcc0a9da8d5509280a3c24a38269325cb"
+    },
+    {
+      "path": "om_account_daily_reports/wizard/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6638ab36718f1876b3067a6b3985b42be5242801",
+      "size": 139,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/6638ab36718f1876b3067a6b3985b42be5242801"
+    },
+    {
+      "path": "om_account_daily_reports/wizard/account_bankbook_report.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72c5f44d24b0a9c781cfd45edc278574771fcd82",
+      "size": 3465,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/72c5f44d24b0a9c781cfd45edc278574771fcd82"
+    },
+    {
+      "path": "om_account_daily_reports/wizard/account_cashbook_report.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a81db411b54756942d1f26ec0c15ae4497c24463",
+      "size": 3465,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/a81db411b54756942d1f26ec0c15ae4497c24463"
+    },
+    {
+      "path": "om_account_daily_reports/wizard/account_daybook_report.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9fee73dbd580d1ec47ead9386e28435557e1462",
+      "size": 1801,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/a9fee73dbd580d1ec47ead9386e28435557e1462"
+    },
+    {
+      "path": "om_account_daily_reports/wizard/bankbook.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94348721b0992a61acbbf87901acd77587085bfe",
+      "size": 2181,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/94348721b0992a61acbbf87901acd77587085bfe"
+    },
+    {
+      "path": "om_account_daily_reports/wizard/cashbook.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0e9c6278ec3c214ae8e325bfc16a1c44955bb64",
+      "size": 2181,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/e0e9c6278ec3c214ae8e325bfc16a1c44955bb64"
+    },
+    {
+      "path": "om_account_daily_reports/wizard/daybook.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "acadb23594c568d8ec6a7a15065c195a6b441b6d",
+      "size": 1820,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/acadb23594c568d8ec6a7a15065c195a6b441b6d"
+    },
+    {
+      "path": "om_account_followup/README.rst",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc9b972524e359e7ed3c22aa57ca0061edc9c6a4",
+      "size": 979,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/bc9b972524e359e7ed3c22aa57ca0061edc9c6a4"
+    },
+    {
+      "path": "om_account_followup/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72a337a2b93e8d9ce36b47f7ea7fbf4c97e78b21",
+      "size": 63,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/72a337a2b93e8d9ce36b47f7ea7fbf4c97e78b21"
+    },
+    {
+      "path": "om_account_followup/__manifest__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e8ed7ada292faa790c140c23685b1578ccbd94b",
+      "size": 814,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/4e8ed7ada292faa790c140c23685b1578ccbd94b"
+    },
+    {
+      "path": "om_account_followup/data/mail_template_data.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2d741b397f0039b20b29932290f2f466aeb61d8",
+      "size": 9792,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/c2d741b397f0039b20b29932290f2f466aeb61d8"
+    },
+    {
+      "path": "om_account_followup/demo/demo.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c06631db8d3593d3e08115f0122f605d42cf678",
+      "size": 2315,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/8c06631db8d3593d3e08115f0122f605d42cf678"
+    },
+    {
+      "path": "om_account_followup/i18n/ar_001.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b16da296e52f6b3497397fd6e045c604840f3663",
+      "size": 51189,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/b16da296e52f6b3497397fd6e045c604840f3663"
+    },
+    {
+      "path": "om_account_followup/i18n/ar_SY.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e706fd01a752bf1c1e8e8f965ce61637521ba130",
+      "size": 48901,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/e706fd01a752bf1c1e8e8f965ce61637521ba130"
+    },
+    {
+      "path": "om_account_followup/i18n/de.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63a9ee0f5566395521bb8986ced2e72e2a909745",
+      "size": 59688,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/63a9ee0f5566395521bb8986ced2e72e2a909745"
+    },
+    {
+      "path": "om_account_followup/i18n/es_AR.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ee4ce71c9c6eb86139139c3400adf8c0a139f14",
+      "size": 54811,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/1ee4ce71c9c6eb86139139c3400adf8c0a139f14"
+    },
+    {
+      "path": "om_account_followup/i18n/fr.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e88cb11f3ca1e78e860d47876e7e375221e68ece",
+      "size": 59560,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/e88cb11f3ca1e78e860d47876e7e375221e68ece"
+    },
+    {
+      "path": "om_account_followup/i18n/tr.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80fea6ce6e5fe062e676107265a6cb97c1b7dcca",
+      "size": 55349,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/80fea6ce6e5fe062e676107265a6cb97c1b7dcca"
+    },
+    {
+      "path": "om_account_followup/i18n/uk.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bab4125ec147d4e523513eb542b84019ddc25e8f",
+      "size": 50612,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/bab4125ec147d4e523513eb542b84019ddc25e8f"
+    },
+    {
+      "path": "om_account_followup/i18n/zh_TW.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68ea079d264f80c2401b757623de013e8d30e0d6",
+      "size": 58484,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/68ea079d264f80c2401b757623de013e8d30e0d6"
+    },
+    {
+      "path": "om_account_followup/models/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e63af8b5064eefb13352ad8c5b0c1340ea5729f5",
+      "size": 151,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/e63af8b5064eefb13352ad8c5b0c1340ea5729f5"
+    },
+    {
+      "path": "om_account_followup/models/account_move.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc7bf41a697c8d2886c026c4349b2d398a82bdd7",
+      "size": 417,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/bc7bf41a697c8d2886c026c4349b2d398a82bdd7"
+    },
+    {
+      "path": "om_account_followup/models/followup.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae7425835b2d29898fa08afb994e60c91999b010",
+      "size": 4215,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/ae7425835b2d29898fa08afb994e60c91999b010"
+    },
+    {
+      "path": "om_account_followup/models/followup_partner.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d60099156e70991ab904769e7fcaa786c7041ae",
+      "size": 2137,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/0d60099156e70991ab904769e7fcaa786c7041ae"
+    },
+    {
+      "path": "om_account_followup/models/partner.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4122bb558b8212f55a5768f08c232e13b21ea44d",
+      "size": 18888,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/4122bb558b8212f55a5768f08c232e13b21ea44d"
+    },
+    {
+      "path": "om_account_followup/models/settings.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9576929f193c62dae37aa348fb055729da6cde8f",
+      "size": 491,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/9576929f193c62dae37aa348fb055729da6cde8f"
+    },
+    {
+      "path": "om_account_followup/report/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "884fe8c6b3ad0749a8e9da3a89e784a5cbef73ed",
+      "size": 59,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/884fe8c6b3ad0749a8e9da3a89e784a5cbef73ed"
+    },
+    {
+      "path": "om_account_followup/report/followup_print.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ec3ac0b2cfcd3e86d9f71203478873bac542abb",
+      "size": 4603,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/7ec3ac0b2cfcd3e86d9f71203478873bac542abb"
+    },
+    {
+      "path": "om_account_followup/report/followup_report.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1495681c1e9caab08b73ba0cb46796903025905a",
+      "size": 1937,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/1495681c1e9caab08b73ba0cb46796903025905a"
+    },
+    {
+      "path": "om_account_followup/report/followup_report.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1cb7b3bc816c20ffeca4f7f9999232eaf20f5f3d",
+      "size": 2811,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/1cb7b3bc816c20ffeca4f7f9999232eaf20f5f3d"
+    },
+    {
+      "path": "om_account_followup/security/ir.access.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5b8e2ce4da594681af6f8af80c1f2898f36fb5a",
+      "size": 1376,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/f5b8e2ce4da594681af6f8af80c1f2898f36fb5a"
+    },
+    {
+      "path": "om_account_followup/static/description/banner.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d26f2e2abe3ebefe16e96ad778153ce8a89f828",
+      "size": 76390,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/3d26f2e2abe3ebefe16e96ad778153ce8a89f828"
+    },
+    {
+      "path": "om_account_followup/static/description/follow_up_analysis.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4366cd9dcca044f2c21f5c975c1c717f42288804",
+      "size": 39922,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/4366cd9dcca044f2c21f5c975c1c717f42288804"
+    },
+    {
+      "path": "om_account_followup/static/description/follow_up_level.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "070fd4cf27e1bed8dfe4bd81d0cbef7e978e2e09",
+      "size": 59407,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/070fd4cf27e1bed8dfe4bd81d0cbef7e978e2e09"
+    },
+    {
+      "path": "om_account_followup/static/description/followup.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8658c1085de9e598fb8deec08c88ea38dd471647",
+      "size": 42367,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/8658c1085de9e598fb8deec08c88ea38dd471647"
+    },
+    {
+      "path": "om_account_followup/static/description/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b8bf29aade8b557c478f3f67f1dbe8f4af5edb6",
+      "size": 14442,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/4b8bf29aade8b557c478f3f67f1dbe8f4af5edb6"
+    },
+    {
+      "path": "om_account_followup/static/description/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e612538bf84f82d2d026f46c09d3a7893647efc6",
+      "size": 3016,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/e612538bf84f82d2d026f46c09d3a7893647efc6"
+    },
+    {
+      "path": "om_account_followup/static/description/manual_followup.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc065469b28acb8a3823c9a57f0ac51cd9f603cb",
+      "size": 43781,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/fc065469b28acb8a3823c9a57f0ac51cd9f603cb"
+    },
+    {
+      "path": "om_account_followup/static/description/odoo_mates.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8408fa3a84d9a0d3b82c7a04d8151a80af888697",
+      "size": 7810,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/8408fa3a84d9a0d3b82c7a04d8151a80af888697"
+    },
+    {
+      "path": "om_account_followup/views/account_move.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b46776bb496792dbc346b7746d55efaf2c27dc40",
+      "size": 3325,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/b46776bb496792dbc346b7746d55efaf2c27dc40"
+    },
+    {
+      "path": "om_account_followup/views/followup_partner_view.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48490b8445b38775787854e828ebfb60e335811d",
+      "size": 1595,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/48490b8445b38775787854e828ebfb60e335811d"
+    },
+    {
+      "path": "om_account_followup/views/followup_view.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a573ff2186e3cffbcef352e821b469bab9138fd",
+      "size": 9507,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/0a573ff2186e3cffbcef352e821b469bab9138fd"
+    },
+    {
+      "path": "om_account_followup/views/partners.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0062409cf26f875daa373686389c75cbdebfdfd7",
+      "size": 10548,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/0062409cf26f875daa373686389c75cbdebfdfd7"
+    },
+    {
+      "path": "om_account_followup/views/report_followup.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2874659a47d154db2a888491244d8d82f547d2b",
+      "size": 3642,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/c2874659a47d154db2a888491244d8d82f547d2b"
+    },
+    {
+      "path": "om_account_followup/views/reports.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e47efed82c8ae530ef8f1d92b28478b36597e86",
+      "size": 402,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/2e47efed82c8ae530ef8f1d92b28478b36597e86"
+    },
+    {
+      "path": "om_account_followup/wizard/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab0b11fc2784c27c23bf9c996237ce78345f6e57",
+      "size": 61,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/ab0b11fc2784c27c23bf9c996237ce78345f6e57"
+    },
+    {
+      "path": "om_account_followup/wizard/followup_print.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd4bac1fad9bf9a872d1072546e7634106872407",
+      "size": 9865,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/cd4bac1fad9bf9a872d1072546e7634106872407"
+    },
+    {
+      "path": "om_account_followup/wizard/followup_print_view.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4dfdb666e35c38e7ab255035a071c64bf064003",
+      "size": 2191,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/e4dfdb666e35c38e7ab255035a071c64bf064003"
+    },
+    {
+      "path": "om_account_followup/wizard/followup_results.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ddd518b20d07c08a934fb4d4900def3064b61c8",
+      "size": 673,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/6ddd518b20d07c08a934fb4d4900def3064b61c8"
+    },
+    {
+      "path": "om_account_followup/wizard/followup_results_view.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a1566850db22caffd5db742a52709579703c763",
+      "size": 1114,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/9a1566850db22caffd5db742a52709579703c763"
+    },
+    {
+      "path": "om_fiscal_year/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "134df274351c3a3b84ee07c95730156864cefc0b",
+      "size": 42,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/134df274351c3a3b84ee07c95730156864cefc0b"
+    },
+    {
+      "path": "om_fiscal_year/__manifest__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6161d393760877d821788e66950801fe7fecc329",
+      "size": 743,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/6161d393760877d821788e66950801fe7fecc329"
+    },
+    {
+      "path": "om_fiscal_year/i18n/ar_001.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73272ecc1485b56b55cf4610802e03acbf769606",
+      "size": 10609,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/73272ecc1485b56b55cf4610802e03acbf769606"
+    },
+    {
+      "path": "om_fiscal_year/i18n/ar_SY.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "251710e697937532cb6afe1a9937dca30c85cc32",
+      "size": 9579,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/251710e697937532cb6afe1a9937dca30c85cc32"
+    },
+    {
+      "path": "om_fiscal_year/i18n/es_AR.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1261be1bad534fb599ce3e37c65b1320a2393f92",
+      "size": 9572,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/1261be1bad534fb599ce3e37c65b1320a2393f92"
+    },
+    {
+      "path": "om_fiscal_year/i18n/fr.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d643b9d511350cd8b831574bf0e5974da1b24a7",
+      "size": 11874,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/1d643b9d511350cd8b831574bf0e5974da1b24a7"
+    },
+    {
+      "path": "om_fiscal_year/i18n/tr.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c9fa86f09d28560e36f6a9a2205277655e303d1",
+      "size": 9701,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/7c9fa86f09d28560e36f6a9a2205277655e303d1"
+    },
+    {
+      "path": "om_fiscal_year/i18n/zh_TW.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c8082029fbee3718c2046527c9331f0d1634d259",
+      "size": 10899,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/c8082029fbee3718c2046527c9331f0d1634d259"
+    },
+    {
+      "path": "om_fiscal_year/models/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52c26438eb51a9d10d5bf071a0e6b0e01bb0a268",
+      "size": 91,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/52c26438eb51a9d10d5bf071a0e6b0e01bb0a268"
+    },
+    {
+      "path": "om_fiscal_year/models/account_fiscal_year.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8bbb1655c6cae62e3e87ff5efb23f6bddfb0598d",
+      "size": 1926,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/8bbb1655c6cae62e3e87ff5efb23f6bddfb0598d"
+    },
+    {
+      "path": "om_fiscal_year/models/account_settings.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d06569ce3da0480dd9181be27427b008bdce9c49",
+      "size": 998,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/d06569ce3da0480dd9181be27427b008bdce9c49"
+    },
+    {
+      "path": "om_fiscal_year/models/res_company.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f52adbaf1565b6d6809e370ca86f2b901449cf2",
+      "size": 1947,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/0f52adbaf1565b6d6809e370ca86f2b901449cf2"
+    },
+    {
+      "path": "om_fiscal_year/security/ir.access.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b7973d80c2a88e8360f954ea995a19450944a0cc",
+      "size": 394,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/b7973d80c2a88e8360f954ea995a19450944a0cc"
+    },
+    {
+      "path": "om_fiscal_year/security/security.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f0a3cded160be041487d3873cb64d9c14455998",
+      "size": 384,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/9f0a3cded160be041487d3873cb64d9c14455998"
+    },
+    {
+      "path": "om_fiscal_year/static/description/fiscal_year.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fdec9094289425abdde13fb0f3d95b5ffb904783",
+      "size": 78238,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/fdec9094289425abdde13fb0f3d95b5ffb904783"
+    },
+    {
+      "path": "om_fiscal_year/static/description/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b8bf29aade8b557c478f3f67f1dbe8f4af5edb6",
+      "size": 14442,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/4b8bf29aade8b557c478f3f67f1dbe8f4af5edb6"
+    },
+    {
+      "path": "om_fiscal_year/static/description/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4b09d2252a7891f497ed5222219838834177067",
+      "size": 2600,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/a4b09d2252a7891f497ed5222219838834177067"
+    },
+    {
+      "path": "om_fiscal_year/static/description/lock_date.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3405e51b48343e43e3c90ce4d6f7d917c5be87e",
+      "size": 74295,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/c3405e51b48343e43e3c90ce4d6f7d917c5be87e"
+    },
+    {
+      "path": "om_fiscal_year/static/description/odoo_mates.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8408fa3a84d9a0d3b82c7a04d8151a80af888697",
+      "size": 7810,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/8408fa3a84d9a0d3b82c7a04d8151a80af888697"
+    },
+    {
+      "path": "om_fiscal_year/views/fiscal_year.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51f047db14447e4c49591856168a40e011433e10",
+      "size": 1891,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/51f047db14447e4c49591856168a40e011433e10"
+    },
+    {
+      "path": "om_fiscal_year/views/settings.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52017e9c0275c6df5f898a9ec3c5905a7792cf15",
+      "size": 3876,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/52017e9c0275c6df5f898a9ec3c5905a7792cf15"
+    },
+    {
+      "path": "om_fiscal_year/wizard/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24e3067c67d5a4c37f51570e6f41e447c75c9176",
+      "size": 31,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/24e3067c67d5a4c37f51570e6f41e447c75c9176"
+    },
+    {
+      "path": "om_fiscal_year/wizard/change_lock_date.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a9aaee4aa279b2a4dc6d0eec17ba90998f35acc",
+      "size": 2549,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/6a9aaee4aa279b2a4dc6d0eec17ba90998f35acc"
+    },
+    {
+      "path": "om_fiscal_year/wizard/change_lock_date.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f68e9389b0b1b40856eab7c8ddd919771376febe",
+      "size": 2187,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/f68e9389b0b1b40856eab7c8ddd919771376febe"
+    },
+    {
+      "path": "om_recurring_payments/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0650744f6bc69b9f0b865e8c7174c813a5f5995e",
+      "size": 21,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/0650744f6bc69b9f0b865e8c7174c813a5f5995e"
+    },
+    {
+      "path": "om_recurring_payments/__manifest__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f5b80840df9056267963c8b2cde1e5a33cc3bf0",
+      "size": 637,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/4f5b80840df9056267963c8b2cde1e5a33cc3bf0"
+    },
+    {
+      "path": "om_recurring_payments/data/recurring_cron.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0dfbc312246bd35a178aa996923191a1e6ca9cd8",
+      "size": 584,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/0dfbc312246bd35a178aa996923191a1e6ca9cd8"
+    },
+    {
+      "path": "om_recurring_payments/data/sequence.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06fcae02a4be688ec6667a3d7bb73b35d3933680",
+      "size": 431,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/06fcae02a4be688ec6667a3d7bb73b35d3933680"
+    },
+    {
+      "path": "om_recurring_payments/i18n/ar_001.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "feaf6e674567dfbfe0af8e7f9285f553a07f6255",
+      "size": 13966,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/feaf6e674567dfbfe0af8e7f9285f553a07f6255"
+    },
+    {
+      "path": "om_recurring_payments/i18n/ar_SY.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2db855ed2e3df8f8daad6772d4fe19f8e06a015c",
+      "size": 13503,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/2db855ed2e3df8f8daad6772d4fe19f8e06a015c"
+    },
+    {
+      "path": "om_recurring_payments/i18n/es_AR.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be7474aefbadf9f28f4450229345f63a0b8a9925",
+      "size": 12665,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/be7474aefbadf9f28f4450229345f63a0b8a9925"
+    },
+    {
+      "path": "om_recurring_payments/i18n/es_MX.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90871e025b2dcd4731a3faeb9ca9c03f876a372f",
+      "size": 14142,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/90871e025b2dcd4731a3faeb9ca9c03f876a372f"
+    },
+    {
+      "path": "om_recurring_payments/i18n/tr.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "500fd532071806ec3c15f28908e0e5fceb6bd008",
+      "size": 13746,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/500fd532071806ec3c15f28908e0e5fceb6bd008"
+    },
+    {
+      "path": "om_recurring_payments/i18n/uk.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e2cc12587920f5b22240cd9146272a16a50d490",
+      "size": 13897,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/7e2cc12587920f5b22240cd9146272a16a50d490"
+    },
+    {
+      "path": "om_recurring_payments/i18n/zh_TW.po",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "efaf0c35d33e183e612741f26f9a24f614c68103",
+      "size": 13462,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/efaf0c35d33e183e612741f26f9a24f614c68103"
+    },
+    {
+      "path": "om_recurring_payments/models/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2f72b04f535c86404e85289bf47507f54647de8",
+      "size": 65,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/e2f72b04f535c86404e85289bf47507f54647de8"
+    },
+    {
+      "path": "om_recurring_payments/models/recurring_payment.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5726c816922568bfaa8315c0959018326f9a23f7",
+      "size": 6287,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/5726c816922568bfaa8315c0959018326f9a23f7"
+    },
+    {
+      "path": "om_recurring_payments/models/recurring_template.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99410e14734d39018c849d7812aa239ea7206bc7",
+      "size": 1807,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/99410e14734d39018c849d7812aa239ea7206bc7"
+    },
+    {
+      "path": "om_recurring_payments/security/ir.access.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "df94104ab8cac07621cb32d1311abf641da752a4",
+      "size": 387,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/df94104ab8cac07621cb32d1311abf641da752a4"
+    },
+    {
+      "path": "om_recurring_payments/static/description/banner.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "394a351c876d3a46767174179152fbc55fa79345",
+      "size": 86804,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/394a351c876d3a46767174179152fbc55fa79345"
+    },
+    {
+      "path": "om_recurring_payments/static/description/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b8bf29aade8b557c478f3f67f1dbe8f4af5edb6",
+      "size": 14442,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/4b8bf29aade8b557c478f3f67f1dbe8f4af5edb6"
+    },
+    {
+      "path": "om_recurring_payments/static/description/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4640936cadf23bb1f24ceb0d6ec605df66aca673",
+      "size": 2634,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/4640936cadf23bb1f24ceb0d6ec605df66aca673"
+    },
+    {
+      "path": "om_recurring_payments/static/description/odoo_mates.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8408fa3a84d9a0d3b82c7a04d8151a80af888697",
+      "size": 7810,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/8408fa3a84d9a0d3b82c7a04d8151a80af888697"
+    },
+    {
+      "path": "om_recurring_payments/static/description/recurring_payment.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "01f8b74d3116c5c75cbb3644be563ec15517beb6",
+      "size": 157380,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/01f8b74d3116c5c75cbb3644be563ec15517beb6"
+    },
+    {
+      "path": "om_recurring_payments/static/description/recurring_template.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0530b42fb767d39f0c136f6a5c43d5ab3092814d",
+      "size": 88960,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/0530b42fb767d39f0c136f6a5c43d5ab3092814d"
+    },
+    {
+      "path": "om_recurring_payments/views/recurring_payment_view.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1e1118f1ff6837e80ae839e659a2b67655d6b4bd",
+      "size": 5248,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/1e1118f1ff6837e80ae839e659a2b67655d6b4bd"
+    },
+    {
+      "path": "om_recurring_payments/views/recurring_template_view.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "79a6e74db372876b24952659f7a2410a1cfeb0d4",
+      "size": 2949,
+      "url": "https://api.github.com/repos/odoomates/odooapps/git/blobs/79a6e74db372876b24952659f7a2410a1cfeb0d4"
+    }
+  ]
+}
